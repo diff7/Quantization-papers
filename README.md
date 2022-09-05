@@ -10,3 +10,7 @@ https://arxiv.org/pdf/2109.12948.pdf
 
 ### ECQx: Explainability-Driven Quantization for Low-Bit and Sparse DNNs
 https://arxiv.org/pdf/2109.04236.pdf
+
+
+### Differentiable Model Compression via Pseudo Quantization Noise
+https://arxiv.org/pdf/2104.09987.pdf
