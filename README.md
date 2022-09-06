@@ -14,3 +14,7 @@ https://arxiv.org/pdf/2109.04236.pdf
 
 ### Differentiable Model Compression via Pseudo Quantization Noise
 https://arxiv.org/pdf/2104.09987.pdf
+
+
+### LEARNING SPARSE & TERNARY NEURAL NETWORKS WITH ENTROPY-CONSTRAINED TRAINED TERNARIZATION (EC2T)
+https://arxiv.org/pdf/2004.01077.pdf
