@@ -18,3 +18,7 @@ https://arxiv.org/pdf/2104.09987.pdf
 
 ### LEARNING SPARSE & TERNARY NEURAL NETWORKS WITH ENTROPY-CONSTRAINED TRAINED TERNARIZATION (EC2T)
 https://arxiv.org/pdf/2004.01077.pdf
+
+
+### AdderNet and its Minimalist Hardware Design for Energy-Efficient Artificial Intelligence
+https://arxiv.org/abs/2101.10015
