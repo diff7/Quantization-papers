@@ -41,3 +41,9 @@ https://arxiv.org/abs/2202.07471
 
 ### Channel Balancing for Accurate Quantization of Winograd Convolutions
 https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Channel_Balancing_for_Accurate_Quantization_of_Winograd_Convolutions_CVPR_2022_paper.pdf
+
+
+### Patch Similarity Aware Data-Free Quantization for Vision Transformers
+https://arxiv.org/pdf/2203.02250.pdf
+
+
