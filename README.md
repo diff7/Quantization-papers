@@ -26,3 +26,18 @@ https://arxiv.org/abs/2101.10015
 
 ### Least squares binary quantization of neural networks
 https://arxiv.org/abs/2001.02786
+
+
+### Data-Free Network Compression via Parametric Non-uniform Mixed Precision Quantization
+https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Data-Free_Network_Compression_via_Parametric_Non-Uniform_Mixed_Precision_Quantization_CVPR_2022_paper.pdf
+
+
+### SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation
+https://arxiv.org/abs/2202.07471
+
+
+### ClusterQ: Semantic Feature Distribution Alignment for Data-Free Quantization
+https://arxiv.org/abs/2202.07471
+
+### Channel Balancing for Accurate Quantization of Winograd Convolutions
+https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Channel_Balancing_for_Accurate_Quantization_of_Winograd_Convolutions_CVPR_2022_paper.pdf
