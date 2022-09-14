@@ -22,3 +22,7 @@ https://arxiv.org/pdf/2004.01077.pdf
 
 ### AdderNet and its Minimalist Hardware Design for Energy-Efficient Artificial Intelligence
 https://arxiv.org/abs/2101.10015
+
+
+### Least squares binary quantization of neural networks
+https://arxiv.org/abs/2001.02786
