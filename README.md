@@ -47,3 +47,9 @@ https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Channel_Balancing_f
 https://arxiv.org/pdf/2203.02250.pdf
 
 
+#### ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction
+https://arxiv.org/pdf/2112.01488.pdf
+
+
+### Residual Quantization for Low Bit-width Neural Networks
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599561
